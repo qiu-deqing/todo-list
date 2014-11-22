@@ -1,4 +1,9 @@
-todo-list
-=========
+# todo-list
 
-需要学习的列表
+## todo
+
+- microformat
+- http://cssdoc.net
+- apache服务器mod_gzip/mod_deflate
+
+## done
