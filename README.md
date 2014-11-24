@@ -5,6 +5,7 @@
 
 - http://cssdoc.net
 - apache服务器mod_gzip/mod_deflate
+- javascript Automatic Semicolon Insertion
 
 ## done
 
