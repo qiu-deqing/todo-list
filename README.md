@@ -2,10 +2,13 @@
 
 ## todo
 
-
+- maintainable javascript
 - http://cssdoc.net
 - apache服务器mod_gzip/mod_deflate
 - javascript Automatic Semicolon Insertion
+- Learning JavaScript Design Patterns
+- scalable and modular architechture for css
+- jsdoc
 
 ## done
 
