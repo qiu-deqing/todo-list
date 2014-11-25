@@ -9,6 +9,8 @@
 - Learning JavaScript Design Patterns
 - scalable and modular architechture for css
 - jsdoc
+- git操作
+- github操作
 
 ## done
 
