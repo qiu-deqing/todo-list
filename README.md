@@ -11,6 +11,8 @@
 - jsdoc
 - git操作
 - github操作
+- Functional JavaScript: Introducing Functional Programming with Underscore.js
+- JavaScript Enlightenment
 
 ## done
 
