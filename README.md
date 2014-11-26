@@ -13,6 +13,7 @@
 - github操作
 - Functional JavaScript: Introducing Functional Programming with Underscore.js
 - JavaScript Enlightenment
+- glob模式匹配
 
 ## done
 
