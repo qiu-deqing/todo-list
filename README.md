@@ -16,6 +16,13 @@
 - sass
 - less
 - amd
+- express
+- mongodb
+- http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code/
+- http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+- REST API
+- http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+- http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 
 ## done
 
