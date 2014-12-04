@@ -17,6 +17,15 @@
 - less
 - amd
 - express
+    - https://github.com/strongloop/express/blob/master/examples/route-separation/index.js?_ga=1.139184240.216536202.1417698367#L19
+    - https://github.com/strongloop/express/blob/master/examples/route-map/index.js?_ga=1.211479510.216536202.1417698367#L47
+    - https://github.com/strongloop/express/tree/master/examples/mvc?_ga=1.211479510.216536202.1417698367
+    - https://github.com/expressjs/express-resource?_ga=1.211479510.216536202.1417698367
+    - https://github.com/expressjs/express-namespace?_ga=1.211479510.216536202.1417698367
+    - http://loopback.io/?_ga=1.211479510.216536202.1417698367
+    - https://github.com/strongloop/express/tree/master/examples/auth?_ga=1.211479510.216536202.1417698367
+    - https://github.com/visionmedia/consolidate.js?_ga=1.141739889.216536202.1417698367
+    - http://expressjs.com/guide/error-handling.html
 - mongodb
 - http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code/
 - http://benalman.com/news/2010/11/immediately-invoked-function-expression/
