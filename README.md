@@ -1,8 +1,14 @@
 # todo-list
 
+### css3 the missing manual推荐资源
+
+- https://css-tricks.com/convert-menu-to-dropdown/
+- http://bradfrostweb.com/blog/web/responsive-nav-patterns/
+- http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/
+
+
 ## todo
 
- 
 - apache服务器mod_gzip/mod_deflate
 - javascript Automatic Semicolon Insertion
 - Learning JavaScript Design Patterns
