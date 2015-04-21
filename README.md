@@ -5,7 +5,8 @@
 - https://css-tricks.com/convert-menu-to-dropdown/
 - http://bradfrostweb.com/blog/web/responsive-nav-patterns/
 - http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/
-
+- www.lukew.com/ff/entry.asp?1514
+- fluid images:http://adaptive-images.com
 
 ## todo
 
