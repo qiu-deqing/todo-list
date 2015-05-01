@@ -10,6 +10,7 @@
 
 ## todo
 
+- 写一个image map可视化插件，方便活动页开发
 - apache服务器mod_gzip/mod_deflate
 - javascript Automatic Semicolon Insertion
 - Learning JavaScript Design Patterns
@@ -42,5 +43,6 @@
 
 ## done
 
+- [淘宝账号退出插件](https://github.com/qiu-deqing/logout)
 - [microformat](https://github.com/qiu-deqing/qiu-deqing.github.io/blob/master/blog/html/microformat.md)
 - [maintainable javascript读书笔记](https://github.com/qiu-deqing/qiu-deqing.github.io/blob/master/blog/js/maintainable-javascript.md)
