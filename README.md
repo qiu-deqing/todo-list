@@ -10,7 +10,9 @@
 
 ## todo
 
-- 写一个image map可视化插件，方便活动页开发：鼠标绘制热区，导出图片，标明对应图片和坐标
+- iframe标签的使用
+- 页面嵌入视频
+- 写一个image map可视化插件，方便活动页开发：鼠标绘制热区，导出图片，标明对应图片和坐标(已经有了：http://imagemap-generator.dariodomi.de/)
 - apache服务器mod_gzip/mod_deflate
 - javascript Automatic Semicolon Insertion
 - Learning JavaScript Design Patterns
