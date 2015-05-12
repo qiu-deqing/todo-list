@@ -8,14 +8,6 @@
 - www.lukew.com/ff/entry.asp?1514
 - fluid images:http://adaptive-images.com
 
-###  好的网站
-
-- [http://24ways.org/]()
-
-### 待翻译文章
-
-- [http://www.html5rocks.com/en/mobile/responsivedesign/]()
-
 ## todo
 
 - css: user-select
