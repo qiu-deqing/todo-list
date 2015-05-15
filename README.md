@@ -21,7 +21,6 @@
 - css: user-select
 - iframe标签的使用
 - 页面嵌入视频
-- 写一个image map可视化插件，方便活动页开发：鼠标绘制热区，导出图片，标明对应图片和坐标(已经有了：http://imagemap-generator.dariodomi.de/)
 - apache服务器mod_gzip/mod_deflate
 - javascript Automatic Semicolon Insertion
 - Learning JavaScript Design Patterns
@@ -57,3 +56,4 @@
 - [淘宝账号退出插件](https://github.com/qiu-deqing/logout)
 - [microformat](https://github.com/qiu-deqing/qiu-deqing.github.io/blob/master/blog/html/microformat.md)
 - [maintainable javascript读书笔记](https://github.com/qiu-deqing/qiu-deqing.github.io/blob/master/blog/js/maintainable-javascript.md)
+- [usemap generator本地化:image map可视化工具](https://github.com/qiu-deqing/imagemap-generator)
