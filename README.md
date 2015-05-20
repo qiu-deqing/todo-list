@@ -18,6 +18,7 @@
 
 ## todo
 
+- [http://www.sitepoint.com/emerging-patterns-javascript-event-handling/]()
 - css: user-select
 - iframe标签的使用
 - 页面嵌入视频
@@ -53,6 +54,8 @@
 
 ## done
 
+- [博客更新: [译]剪切和复制命令](http://qiudeqing.com/html5/2015/05/19/cut-and-copy-commands.html)
+- [博客更新: drag and drop](http://qiudeqing.com/html5/2015/05/17/drag-and-drop.html)
 - [淘宝账号退出插件](https://github.com/qiu-deqing/logout)
 - [microformat](https://github.com/qiu-deqing/qiu-deqing.github.io/blob/master/blog/html/microformat.md)
 - [maintainable javascript读书笔记](https://github.com/qiu-deqing/qiu-deqing.github.io/blob/master/blog/js/maintainable-javascript.md)
