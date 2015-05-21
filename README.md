@@ -2,7 +2,6 @@
 
 ### css3 the missing manual推荐资源
 
-- https://css-tricks.com/convert-menu-to-dropdown/
 - http://bradfrostweb.com/blog/web/responsive-nav-patterns/
 - http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/
 - www.lukew.com/ff/entry.asp?1514
@@ -54,6 +53,7 @@
 
 ## done
 
+- [博客更新: 响应式切换菜单](http://qiudeqing.com/mobile_web/2015/05/22/responsive-toggle-menu.html)
 - [博客更新: [译]剪切和复制命令](http://qiudeqing.com/html5/2015/05/19/cut-and-copy-commands.html)
 - [博客更新: drag and drop](http://qiudeqing.com/html5/2015/05/17/drag-and-drop.html)
 - [淘宝账号退出插件](https://github.com/qiu-deqing/logout)
