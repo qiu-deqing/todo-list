@@ -17,6 +17,8 @@
 
 ## todo
 
+- [https://babeljs.io/]()
+- [https://leanpub.com/exploring-es6/read]()
 - [http://www.sitepoint.com/emerging-patterns-javascript-event-handling/]()
 - css: user-select
 - iframe标签的使用
