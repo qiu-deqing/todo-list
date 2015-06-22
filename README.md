@@ -1,5 +1,15 @@
 # todo-list
 
+## twitter
+
+- [TJ Holowaychuk](https://twitter.com/tjholowaychuk)
+- [Addy Osmani](https://twitter.com/addyosmani)
+- [Nicholas C. Zakas](https://twitter.com/slicknet)
+- [John Resig](https://twitter.com/jeresig): Creator of @jquery, JavaScript programmer, author
+- [bootstrap](https://twitter.com/getbootstrap)
+- [Paul Irish](https://twitter.com/paul_irish): The web is awesome, let's make it even better • I work on Chrome DevTools and browser performance • big fan of rye whiskey, data and whimsy
+- [Node js](https://twitter.com/nodejs)
+
 ### css3 the missing manual推荐资源
 
 - http://bradfrostweb.com/blog/web/responsive-nav-patterns/
@@ -17,6 +27,7 @@
 
 ## todo
 
+- [http://tympanus.net/Development/CreativeGooeyEffects/menu.html]()
 - [https://github.com/hammerjs/hammer.js]()
 - [https://babeljs.io/]()
 - [https://leanpub.com/exploring-es6/read]()
