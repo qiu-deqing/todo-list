@@ -11,6 +11,9 @@
 ###  好的网站
 
 - [http://24ways.org/]()
+- [http://html5doctor.com/]()
+- [http://diveintohtml5.info/]()
+
 
 ### 待翻译文章
 
